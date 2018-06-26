@@ -1,40 +1,35 @@
 {
   "Collections": [
     {
-      "name": "Landscapes",
+      "name": "God Art",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
     },
     {
-      "name": "City",
+      "name": "Random Wallpaper",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
     },
     {
-      "name": "Food",
+      "name": "Smite World",
       "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
       "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
     },
-    {
-      "name": "People",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
-    }
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
+      "name": "Achiles",
       "author": "Someone",
-      "url": "https://img00.deviantart.net/26bd/i/2018/177/e/d/1ahdzhx_by_yamiish-dcfhg1b.jpg",
-      "collections": "featured,landscapes,people",
+      "url": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/1aHdZHX.jpg",
+      "collections": "God Art",
       "downloadable": false
     },
     {
-      "name": "ShotB",
+      "name": "Nemesis",
       "author": "Someone",
-      "url": "https://img00.deviantart.net/8951/i/2018/177/4/1/748886_by_yamiish-dcfhg0n.jpg",
+      "url": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/525476.jpg",
       "dimensions": "3200x2560",
-      "collections": "people,city",
+      "collections": "God Art",
       "downloadable": false
     },
     {
@@ -46,13 +41,14 @@
       "collections": "landscapes,city"
     },
     {
-      "name": "Wallsplash 1",
+      "name": "Chaac",
       "author": "wallsplash",
-      "url": "https://img00.deviantart.net/0857/i/2018/177/6/e/757756_by_yamiish-dcfhfyw.jpg",
+      "url": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/748886.jpg",
       "thumbnail": "https://img00.deviantart.net/0857/i/2018/177/6/e/757756_by_yamiish-dcfhfyw.jpg",
       "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,city"
+      "copyright": "Free (do whatever fek u want nigga)",
+      "sexy":"hot chaac",
+      "collections": "Random Wallpaper"
     },
     {
       "name": "Wallsplash 2",
