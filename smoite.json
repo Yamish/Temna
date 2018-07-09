@@ -1,9 +1,9 @@
 [{
-	"name": "Deadpool",
+	"name": "Nemesis",
 	"url": {
 		"small": "https://api.androidhive.info/images/glide/small/deadpool.jpg",
-		"medium": "https://api.androidhive.info/images/glide/medium/deadpool.jpg",
-		"large": "https://api.androidhive.info/images/glide/large/deadpool.jpg"
+		"medium": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/525476.jpg",
+		"large": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/525476.jpg"
 	},
 	"timestamp": "February 12, 2016"
 },
