@@ -1,0 +1,20 @@
+{
+  "Wallpapers": [
+    {
+      "name": "Achiles",
+      "author": "Someone",
+      "url": "https://d1u5p3l4wpay3k.cloudfront.net/smite_gamepedia/3/3d/AhPuch_Select.ogg",
+      "collections": "God Art",
+      "downloadable": false
+    },
+    {
+      "name": "Nemesis",
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/525476.jpg",
+      "dimensions": "3200x2560",
+      "collections": "God Art",
+      "downloadable": false
+    }
+
+  ]
+}
