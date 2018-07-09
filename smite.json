@@ -1,21 +1,4 @@
 {
-  "Collections": [
-    {
-      "name": "God Art",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png"
-    },
-    {
-      "name": "Random Wallpaper",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png"
-    },
-    {
-      "name": "Smite World",
-      "preview_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-      "preview_thumbnail_url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png"
-    },
-  ],
   "Wallpapers": [
     {
       "name": "Achiles",
@@ -32,86 +15,6 @@
       "collections": "God Art",
       "downloadable": false
     },
-    {
-      "author": "Someone",
-      "url": "https://img00.deviantart.net/f377/i/2018/177/2/b/748892_by_yamiish-dcfhfzw.jpg",
-      "name": "ShotC",
-      "dimensions": "1280x720",
-      "copyright": "Credits to its creator",
-      "collections": "landscapes,city"
-    },
-    {
-      "name": "Chaac",
-      "author": "wallsplash",
-      "url": "https://raw.githubusercontent.com/Yamish/Temna/master/app/src/main/res/drawable/748886.jpg",
-      "thumbnail": "https://img00.deviantart.net/0857/i/2018/177/6/e/757756_by_yamiish-dcfhfyw.jpg",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever fek u want nigga)",
-      "sexy":"hot chaac",
-      "collections": "Random Wallpaper"
-    },
-    {
-      "name": "Wallsplash 2",
-      "author": "wallsplash",
-      "url": "https://img00.deviantart.net/5b1d/i/2018/177/3/8/757760_by_yamiish-dcfhfy1.jpg",
-      "thumbnail": "https://img00.deviantart.net/5b1d/i/2018/177/3/8/757760_by_yamiish-dcfhfy1.jpg",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes,people,food"
-    },
-    {
-      "name": "Wallsplash 3",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,food,people"
-    },
-    {
-      "name": "Wallsplash 4",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people,city"
-    },
-    {
-      "name": "Wallsplash 5",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,landscapes"
-    },
-    {
-      "name": "Wallsplash 6",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "featured,people"
-    },
-    {
-      "name": "Wallsplash 7",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_g.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,people"
-    },
-    {
-      "name": "Wallsplash 8",
-      "author": "wallsplash",
-      "url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-      "thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_h.png",
-      "dimensions": "3200x2560",
-      "copyright": "Free (do whatever you want)",
-      "collections": "food"
-    }
+
   ]
 }
