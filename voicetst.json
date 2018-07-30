@@ -1,18 +1,19 @@
-   [{
-    "name": "Selection",
-    "link": ["https://d1u5p3l4wpay3k.cloudfront.net/testSelect.ogg"]
-},
-{
-    "name": "Introduction",
-    "link": ["https://d1u5p3l4wpay3k.cloudfront.net/introSelect.ogg",
-        "https://d1u5p3l4wpay3k.cloudfront.net/introSelect2.ogg".ogg"
-    ]
-},
-{
-    "name": "Abilities",
-    "link": ["https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg",
-        "https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg",
-        "https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg",
-        "https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg"
-    ]
-}]
+[{
+		"name": "Selection",
+		"link": ["https://d1u5p3l4wpay3k.cloudfront.net/testSelect.ogg"]
+	},
+	{
+		"name": "Introduction",
+		"link": ["https://d1u5p3l4wpay3k.cloudfront.net/introSelect.ogg",
+			"https://d1u5p3l4wpay3k.cloudfront.net/introSelect2.ogg"
+		]
+	},
+	{
+		"name": "Abilities",
+		"link": ["https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg",
+			"https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg",
+			"https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg",
+			"https://d1u5p3l4wpay3k.cloudfront.net/testatk1.ogg"
+		]
+	}
+]
